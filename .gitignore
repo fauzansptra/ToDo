@@ -1,0 +1,40 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.out
+
+# Build artifacts
+/build/
+*.o
+*.obj
+
+# Go module cache (do not commit Go dependencies)
+/pkg/mod/
+go.sum
+
+# Go workspace files
+.vscode/
+.idea/
+*.iml
+
+# Logs and debugging
+*.log
+trace.out
+heap.out
+cpu.out
+cover.out
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+*.swp
+*.swo
+
+# Private key files
+*.pem
+*.key
