@@ -4,7 +4,8 @@ import (
 	"log"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
-	"go-todo-app/models"
+	"github.com/fauzansptra/go-rest-api/models"
+
 )
 
 var DB *gorm.DB

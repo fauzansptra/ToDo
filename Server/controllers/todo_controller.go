@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"github.com/gin-gonic/gin"
-	"go-todo-app/config"
-	"go-todo-app/models"
+    "github.com/fauzansptra/go-rest-api/config"
+    "github.com/fauzansptra/go-rest-api/models"
 	"net/http"
 )
 

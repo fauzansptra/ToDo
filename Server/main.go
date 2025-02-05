@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go-todo-app/config"
-	"go-todo-app/routes"
+	"github.com/fauzansptra/go-rest-api/config"
+    "github.com/fauzansptra/go-rest-api/routes"
 )
 
 func main() {
